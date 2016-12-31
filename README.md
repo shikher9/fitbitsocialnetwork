@@ -5,7 +5,7 @@ This project is about fitness tracking and social networking among fitness enthu
 
 # Technology
 
-The server for the application was build using Spring MVC 4 with Maven. A token based authentication is used for authenticating users using JJWT (https://github.com/jwtk/jjwt). Password encryption has been done using BCrypt. The application has one custom thread for fetching data from Fitbit. All the application functionality is exposed using REST Api. The UI for the application was made using HTML, CSS (Flexbox for layout), JavaScript, some bootstrap, and Jquery.
+The server for the application was build using Spring MVC 4 with Maven. A token based authentication is used for authenticating users using JJWT (https://github.com/jwtk/jjwt). Password encryption has been done using BCrypt. The application has one custom thread for fetching data from Fitbit. All the application functionality is exposed using REST Api. The UI for the application was made using HTML, CSS (Flexbox for layout), JavaScript, some bootstrap, and Jquery. The UI is mobile responsive.
 
 # HTML 5 Features Used
 
